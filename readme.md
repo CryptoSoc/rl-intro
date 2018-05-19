@@ -2,7 +2,7 @@
 
 These educational materials originate from the [OpenAI 2018 Hackathon](https://blog.openai.com/hackathon-follow-up/).
 
-This repo contains slides and code for a 30-minute ``drink from the firehose`` intro to RL, given at the OpenAI Hackthon on March 3rd, 2018. The slides contain a mathemiatical and programming introduction to reinforcement learning from the context of deep neural networks.
+This repo contains slides and code for a 30-minute "drink from the firehose" intro to RL, given at the OpenAI Hackthon on March 3rd, 2018. The slides contain a mathemiatical and programming introduction to reinforcement learning from the context of deep neural networks.
 
 The file `pg_cartpole.py` contains an 80-line, bare-bones implementation of policy gradient which seems to work in CartPole. 
 
